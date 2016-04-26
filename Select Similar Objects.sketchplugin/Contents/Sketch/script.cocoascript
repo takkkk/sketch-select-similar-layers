@@ -3,7 +3,7 @@
 // TODO: Select layers with the same shadow / inner shadow
 // TODO: Select same symbols
 
-var selectInAllArtboards = false;
+var selectInAllArtboards = true;
 
 var selectSameFill = function(context)
 {
